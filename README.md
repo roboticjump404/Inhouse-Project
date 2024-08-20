@@ -2,7 +2,7 @@
 Forecasting Rice Sales Demand using Maching Learning Algorithms
 This project focuses on forecasting rice sales demand at fair price shops in India using various machine learning algorithms. The goal is to predict future Custom Milled Rice (CMR) based on historical data from 2018 to 2023.
 
-Objectives
+**Objectives**
 Predict CMR: Forecast future rice sales demand for the year 2024.
 Compare Algorithms: Evaluate the performance of different machine learning models such as XGBoost, CatBoost, SVR, and Random Forest Regressor.
 Optimize Model: Fine-tune model parameters to achieve the best prediction accuracy.
