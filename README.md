@@ -1,5 +1,4 @@
-
-# Rice Sales Demand Forecasting using Machine Learning
+# Rice Sales Demand Forecasting
 
 ## Project Overview
 
@@ -33,10 +32,10 @@ This project focuses on forecasting rice sales demand at fair price shops in Ind
 
 ## Models Used
 
-1. **XGBoost**: A gradient boosting algorithm known for its high performance in structured data.
-2. **CatBoost**: Another gradient boosting algorithm, which was found to be the best-performing model for this dataset.
-3. **SVR**: Support Vector Regression, which showed improved performance with MinMaxScaler.
-4. **Random Forest Regressor**: A robust ensemble method that performed consistently well across different metrics.
+1. **XGBoost**
+2. **CatBoost**
+3. **SVR**
+4. **Random Forest Regressor**
 
 ## Evaluation Metrics
 
@@ -44,9 +43,4 @@ This project focuses on forecasting rice sales demand at fair price shops in Ind
 - **RMSE (Root Mean Squared Error)**
 - **MAE (Mean Absolute Error)**
 - **MAPE (Mean Absolute Percentage Error)**
-
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
