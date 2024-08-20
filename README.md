@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on forecasting rice sales demand at fair price shops in India using various machine learning algorithms. The goal is to predict future Custom Milled Rice (CMR) demand based on historical data from 2018 to 2023.
+This project focuses on forecasting rice sales demand at fair price shops in Kerala (India) using various machine learning algorithms. The goal is to predict future Custom Milled Rice (CMR) demand based on historical data from 2018 to 2023.
 
 ## Objectives
 
